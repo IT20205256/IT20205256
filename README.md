@@ -1,5 +1,7 @@
 Hi there 👋
 
+👦- I am Kishan R. 
+
 🎓- I am a 3rd year DataScience Undergraduate at SLIIT and this is my campus profile.
 
 📄- Here, I have attached the projects which I have completed through my studying period due to assignment purposes.
